@@ -2,7 +2,9 @@
 
 > 打怪升级
 
-![一步一个脚印](http://ouit3bg5b.bkt.clouddn.com/DFS.png)
+<div align=center> 
+<img src="http://ouit3bg5b.bkt.clouddn.com/DFS.png" width = 80% height = 75% alt="一步一个脚印" />
+</div>
 
 
 
